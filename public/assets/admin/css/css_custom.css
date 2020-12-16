@@ -1,0 +1,59 @@
+@media (min-width: 992px){
+	.br-section-wrapper {
+	    padding: 20px;
+	    font-size: small;
+	}
+}
+.br-section-wrapper *{
+	font-size: 14px;
+}
+.custom-control-label{
+	padding-top: 3px;
+}
+.listing-container{
+
+}
+.listing-container tr td, .listing-container tr th{
+	padding: 0.7rem;
+}
+.listing-container tr.title td{
+	background: #f2f2f2;
+	color: #333;
+	font-weight: 700;
+}
+.listing-container .button-delete{
+	border: none;
+	color: #bf1818;
+	background: none;
+	outline: none;
+}
+.listing-container .fa-check-square, .fa-square{
+	color: #007bff;
+}
+.listing-container form{
+	margin: 0;
+}
+.listing-container .card{
+	box-shadow: none;
+}
+.listing-container .card-header{
+	border-bottom: none;
+}
+.table .thead-light th, .table .thead-light td {
+    background-color: #e9ecef;
+    color: #333;
+    font-weight: 700;
+}
+.my-custom-radio{
+	padding-left: 0px;
+}
+.custome-rdiobox span:before{
+	right: 0;
+	margin: 0 auto;
+}
+.custome-rdiobox span:after{
+	right: 0;
+	margin: 0 auto;
+	left: 0;
+}
+
